@@ -1,0 +1,13 @@
+{
+  "name": "gridsome-site",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "gridsome": "^0.7.0"
+  }
+}
